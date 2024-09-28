@@ -25,8 +25,9 @@ In order to use the `Sweeper` class within your project, require the module with
 local Sweeper = require(path.to.Sweeper)
 ```
 
-Usage
-Creating a Sweeper Instance
+## Usage
+
+### Creating a Sweeper Instance
 
 You can create an instance of `Sweeper` like so:
 
